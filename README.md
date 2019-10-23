@@ -1,12 +1,7 @@
-# Tesseralis Fan Club Official Site
 
-This is the official fan club of [@tesseralis](https://tessera.li), aka Nat Alison, aka the "Polyhedra lady" aka the "React translation lady".
+# Gatsby English Translation
 
-## Membership
+This repo contains the English translation for Gatsby.
 
-Membership fees are $350/mo.
-
-## Contributing
-
-You can't contribute. I control everything.
-
+Please refer to the [Gatsby Translation Guide](https://www.gatsbyjs.org/contributing/gatsby-docs-translation-guide/) for instructions.
+  
